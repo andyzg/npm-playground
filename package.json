@@ -1,0 +1,14 @@
+{
+  "name": "andyzhang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "andy zhang",
+  "license": "ISC"
+}
